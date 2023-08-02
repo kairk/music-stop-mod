@@ -6,6 +6,8 @@
 
 # BlueJ files
 *.ctxt
+*.log.gz
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -100,3 +102,9 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+# Default Minecraft ignored files
+/shelf/
+/workspace.xml
+/run/crash-reports
+/run/logs
